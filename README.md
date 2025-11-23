@@ -6,4 +6,4 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/marstraveler01/luauarc
 # GAMES
 luauarch supports 2 games at the moment
 - An Annoyingly long Monorail game
--zyltex's animations
+- zyltex's animations
