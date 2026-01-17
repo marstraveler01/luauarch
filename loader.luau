@@ -1,6 +1,6 @@
 local SUPPORTED_GAMES = {
-    [18709784634] = "https://raw.githubusercontent.com/marstraveler01/luauarch/refs/heads/main/script/ob_almg.luau",
-    [93491740450163] = "https://raw.githubusercontent.com/marstraveler01/luauarch/refs/heads/main/script/ob_za.luau"
+    [18709784634] = "https://api.jnkie.com/api/v1/luascripts/public/470e11a07b4368d5a72c1d03189b1d01470b2e91bb81f8fb314a9f005646e526/download",
+    [93491740450163] = "https://api.jnkie.com/api/v1/luascripts/public/19e0a719ee0b15cd4875d1f2125e233bd0740e1da7810f21133d9ae65833a0ee/download"
 }
 
 local CurrentPlaceId = game.PlaceId
